@@ -1,15 +1,28 @@
 ---
+id: 2
+title: Running and Innovation
+date: 2007-04-25T22:07:59+00:00
+author: Rob Di Marco
 layout: page
-title: About
-permalink: /about/
 ---
+Besides being a technologist, I am an amateur long distance runner, mostly trail runs and marathons. As of April 2007, I have completed 13 marathons in 8 states with my best time being a 2:58:30 in the Mohawk-Hudson Marathon last year. Lots of people ask me how I can stand going for twenty mile runs. But actually, its on those runs that I find my best ideas come to me. It is the one time that I can hours alone just to think. It is amazing what comes in to your head when the blood and adrenaline are pumping.
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](http://jekyllrb.com/)
+### 2007 Races
 
-You can find the source code for the Jekyll new theme at:
-{% include icon-github.html username="jglovier" %} /
-[jekyll-new](https://github.com/jglovier/jekyll-new)
+  * Great Eastern Endurance Run (September 2007) &#8212; I am doing the 50 K
+  * [Reach The Beach Relay](http://www.rtbrelay.com/) September 2007&#8211; 200+ Miles in 24 Hours (about) &#8212; My team _Feats of Strength and Daring_ came in 100th out of 365 starters.
+  * [Half Wit Half Marathon](http://www.pretzelcitysports.com/) August 2007
+  * Muir Woods Trail Marathon (April 2007)
+  * DC Marathon (March 2007)
 
-You can find the source code for Jekyll at
-{% include icon-github.html username="jekyll" %} /
-[jekyll](https://github.com/jekyll/jekyll)
+<!-- Social Bookmarks BEGIN -->
+
+<div class="social_bookmark">
+  <a title="Click me to see the sites." href="#" onclick="$$('div.d2').each( function(e) { e.visualEffect('slide_down',{duration:2.5}) }); return false;"><strong><em>Bookmark to:</em></strong></a> <br /> 
+  
+  <div class="d2" style="overflow:hidden">
+    <br /> <a onclick="window.open(this.href, '_blank', 'scrollbars=yes,menubar=no,height=600,width=750,resizable=yes,toolbar=no,location=no,status=no'); return false;" href="http://www.dzone.com/links/add.html?description=Running+and+Innovation&url=http%3A%2F%2Fwww.innovationontherun.com%2Fabout%2F&title=Running+and+Innovation" rel="nofollow" title="Add to&nbsp;DZone"><img class="social_img" src="http://www.innovationontherun.com/wp-content/plugins/social-bookmarks/images/dzone.png" title="Add to&nbsp;DZone" alt="Add to&nbsp;DZone" /></a> <a onclick="window.open(this.href, '_blank', 'scrollbars=yes,menubar=no,height=600,width=750,resizable=yes,toolbar=no,location=no,status=no'); return false;" href="http://www.facebook.com/sharer.php?u=http%3A%2F%2Fwww.innovationontherun.com%2Fabout%2F" rel="nofollow" title="Add to&nbsp;Facebook"><img class="social_img" src="http://www.innovationontherun.com/wp-content/plugins/social-bookmarks/images/facebook.png" title="Add to&nbsp;Facebook" alt="Add to&nbsp;Facebook" /></a> <a onclick="window.open(this.href, '_blank', 'scrollbars=yes,menubar=no,height=600,width=750,resizable=yes,toolbar=no,location=no,status=no'); return false;" href="http://www.google.com/bookmarks/mark?op=edit&output=popup&bkmk=http%3A%2F%2Fwww.innovationontherun.com%2Fabout%2F&title=Running+and+Innovation" rel="nofollow" title="Add to&nbsp;Google Bookmarks"><img class="social_img" src="http://www.innovationontherun.com/wp-content/plugins/social-bookmarks/images/google.png" title="Add to&nbsp;Google Bookmarks" alt="Add to&nbsp;Google Bookmarks" /></a> <a onclick="window.open(this.href, '_blank', 'scrollbars=yes,menubar=no,height=600,width=750,resizable=yes,toolbar=no,location=no,status=no'); return false;" href="http://reddit.com/submit?url=http%3A%2F%2Fwww.innovationontherun.com%2Fabout%2F&title=Running+and+Innovation" rel="nofollow" title="Add to&nbsp;reddit"><img class="social_img" src="http://www.innovationontherun.com/wp-content/plugins/social-bookmarks/images/reddit.png" title="Add to&nbsp;reddit" alt="Add to&nbsp;reddit" /></a> <a onclick="window.open(this.href, '_blank', 'scrollbars=yes,menubar=no,height=600,width=750,resizable=yes,toolbar=no,location=no,status=no'); return false;" href="http://slashdot.org/bookmark.pl?url=http%3A%2F%2Fwww.innovationontherun.com%2Fabout%2F&title=Running+and+Innovation" rel="nofollow" title="Add to&nbsp;Slashdot"><img class="social_img" src="http://www.innovationontherun.com/wp-content/plugins/social-bookmarks/images/slashdot.png" title="Add to&nbsp;Slashdot" alt="Add to&nbsp;Slashdot" /></a> <a onclick="window.open(this.href, '_blank', 'scrollbars=yes,menubar=no,height=600,width=750,resizable=yes,toolbar=no,location=no,status=no'); return false;" href="http://www.stumbleupon.com/submit?url=http%3A%2F%2Fwww.innovationontherun.com%2Fabout%2F&title=Running+and+Innovation" rel="nofollow" title="Add to&nbsp;Stumble Upon"><img class="social_img" src="http://www.innovationontherun.com/wp-content/plugins/social-bookmarks/images/stumbleupon.png" title="Add to&nbsp;Stumble Upon" alt="Add to&nbsp;Stumble Upon" /></a> <a onclick="window.open(this.href, '_blank', 'scrollbars=yes,menubar=no,height=600,width=750,resizable=yes,toolbar=no,location=no,status=no'); return false;" href="http://www.squidoo.com/lensmaster/bookmark?http%3A%2F%2Fwww.innovationontherun.com%2Fabout%2F" rel="nofollow" title="Add to&nbsp;Squidoo"><img class="social_img" src="http://www.innovationontherun.com/wp-content/plugins/social-bookmarks/images/squidoo.png" title="Add to&nbsp;Squidoo" alt="Add to&nbsp;Squidoo" /></a> <a onclick="window.open(this.href, '_blank', 'scrollbars=yes,menubar=no,height=600,width=750,resizable=yes,toolbar=no,location=no,status=no'); return false;" href="http://www.technorati.com/faves?add=http%3A%2F%2Fwww.innovationontherun.com%2Fabout%2F" rel="nofollow" title="Add to&nbsp;Technorati"><img class="social_img" src="http://www.innovationontherun.com/wp-content/plugins/social-bookmarks/images/technorati.png" title="Add to&nbsp;Technorati" alt="Add to&nbsp;Technorati" /></a> <a onclick="window.open(this.href, '_blank', 'scrollbars=yes,menubar=no,height=600,width=750,resizable=yes,toolbar=no,location=no,status=no'); return false;" href="http://twitter.com/home/?status=Check+out+Running+and+Innovation+@+http%3A%2F%2Fwww.innovationontherun.com%2Fabout%2F" rel="nofollow" title="Add to&nbsp;Twitter"><img class="social_img" src="http://www.innovationontherun.com/wp-content/plugins/social-bookmarks/images/twitter.png" title="Add to&nbsp;Twitter" alt="Add to&nbsp;Twitter" /></a> <br /> <a style="font-size:90%;text-align: right; " title="Click me to hide the sites." href="#" onclick="$$('div.d2').each( function(e) { e.visualEffect('slide_up',{duration:0.5}) }); return false;">Hide Sites</a>
+  </div>
+</div>
+
+<!-- Social Bookmarks END -->

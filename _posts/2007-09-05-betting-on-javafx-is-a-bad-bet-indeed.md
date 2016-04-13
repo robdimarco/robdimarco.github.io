@@ -1,0 +1,33 @@
+---
+id: 37
+title: Betting on JavaFX Is a Bad Bet Indeed
+date: 2007-09-05T11:44:25+00:00
+author: Rob Di Marco
+layout: post
+guid: http://www.innovationontherun.com/betting-on-javafx-is-a-bad-bet-indeed/
+permalink: /betting-on-javafx-is-a-bad-bet-indeed/
+tags:
+  - Java
+  - Technology Business
+---
+In the last few months, Adobe, Sun, and Microsoft have all had major announcements around their platforms for developing rich Internet applications (RIA).&nbsp; Adobe, the current market leader in the RIA space with their combination of [Flash](http://www.adobe.com/products/flash/) and [Flex](http://www.adobe.com/products/flex/), has recently been promoting the [Air](http://labs.adobe.com/technologies/air/) product that will allow Flex applications to hook into the desktop.&nbsp; Microsoft has announced their [Silverlight](http://silverlight.net/) technology with a focus on integration with scripting and .NET languages and a strong focus on high quality video and audio experience.&nbsp; Right after the Silverlight announcement, in what seemed like a knee jerk press release, Sun announced the [Java FX](http://java.sun.com/javafx/)&nbsp;technology to ostensibly compete in the space.&nbsp; There are two motivators that are really driving interest in these technologies:&nbsp;better media (e.g. audio and video) experiences and better online/offline experiences.&nbsp; Adobe and Microsoft&nbsp;get this and these drivers have been at the forefront of their offerings.&nbsp; Sun hasn&#8217;t gotten the message.
+
+Flash has been around for a long time and is installed and active on almost every browser, it seems most of the major video sites (e.g. YouTube) are currently using Flash as their RIA platform and the Flash 9 player has some new video/audio codec supports as well as support for ActionScript 3 that meets the ECMAScript specification (basically JavaScript).&nbsp; Flash/Flex are mature, have solid tools, great documentation, a vibrant community and a huge installation base.&nbsp; Flash/Flex has [first mover advantage](http://www.marketingterms.com/dictionary/first_mover_advantage/) in the space.
+
+Silverlight has just released their 1.0 and has gotten a ton of press.&nbsp; From the development side, the combination of JavaScript and XML to create applications feels a lot like building applications with Flex.&nbsp; Silverlight has also been designed to hook into .NET languages including [IronRuby](http://www.iunknown.com/2007/07/a-first-look-at.html) and [IronPython](http://www.codeplex.com/Wiki/View.aspx?ProjectName=IronPython) and is really focusing on high quality audio and video experience.&nbsp; For some cool examples of the technology&nbsp;check out a visual search engine, [tafiti.com](http://www.tafiti.com/)&nbsp;or the live streaming television broadcasting application [LiveStation](http://www.livestation.com).&nbsp; There is cross-browser and cross-platform support for the toolkit.&nbsp; Not a huge community or install base just yet, but the technology is easy to install (about 4 MB download), easy to develop with,&nbsp;produces a fast and clean user experience, and the easy hook in to .NET languages plus its inevitable preloading into base Windows installs means that these communities will build up fast.
+
+JavaFX is basically a nicer way to write applets.&nbsp; There is no focus on offline applications, no focus on media, and a small effort on reducing download sizes.&nbsp; Really nothing very interesting or new from what Java developers have had before.
+
+It seems no one at Sun has ever read [The 22 Immutable Laws of Marketing](http://www.amazon.com/gp/product/0887306667?ie=UTF8&tag=innoontherun-20&linkCode=as2&camp=1789&creative=9325&creativeASIN=0887306667)[1].&nbsp; Let&#8217;s look at how many of the marketing laws Sun is violating.
+
+  * Law of Leadership &#8211; Being the first to market.&nbsp; Sun actually had an opportunity 10 years ago when applets were starting to be built.&nbsp; But while they may have been first to market for embedded applications in a browser, they let Adobe Flash be the first into the easy to install browser plugin for media applications. 
+      * Law of Mind and Law of Perception &#8211; Java GUI applications are thought of as being big, slow, and ugly.&nbsp; By including the term Java in the JavaFX name, people will clearly associate JavaFX applications with those terms as well.&nbsp; Sun should rebrand. 
+          * Law of the Ladder/Law of Duality&nbsp;&#8211;&nbsp;It is very hard to&nbsp;change market position.&nbsp; And if you are not one of the&nbsp;top two players in a market, you need to find a new market.&nbsp; JavaFX will not be in the top two, they need a new market. 
+              * Law of Line Extension &#8211; Another problem with Java,&nbsp;the brand is so&nbsp;generic and means so many things that you don&#8217;t know what it is.&nbsp; Java ME, Java SE, Java EE, JavaFX.&nbsp; They all leverage the Java brand, but are all wildly different products.&nbsp; (Sidenote, Sun&#8217;s changing their NASDAQ stock ticker symbol to JAVA continues these violations) 
+                  * Law of Resources &#8211; Adobe is going around with their [Adobe AIR tour](http://onair.adobe.com/?sdid=BDBZJ).&nbsp; Microsoft is partnering with a bunch of big media players (e.g. check out [http://silverlight.net/Showcase/](http://silverlight.net/Showcase/ "http://silverlight.net/Showcase/")&nbsp;for samples for WWE, CBS, MLB) to work with Silverlight.&nbsp; Sun spent some money on a press release.</ul> 
+                For JavaFX to be a success, for their to be a community, I would recommend the following:
+                
+                  * Figure out what market segment you are solving problems for.&nbsp; Do you want to be in the consumer RIA space or should the focus be on RIA applications developed within corporate intranets?&nbsp; Where Adobe and Microsoft are focusing on the consumer space (explaining the drivers of media and online/offline play), perhaps Sun could focus on a different problem space with different needs. 
+                      * Stop with every name starting with the Java brand!&nbsp; Get some differentiations with product names so people know what they are talking about. 
+                          * Come up with a real roadmap for the technology and let the development community know it is a&nbsp;core part of Sun&#8217;s development path, not a one off project.</ul> 
+                        [1] EVERYONE should own this book.&nbsp; It&#8217;s $10, will take an hour to read, and will change your view of how you look at your company and business.
