@@ -16,5 +16,5 @@ In addition, Rob serves on the board of directors for the ARC of Montgomery Coun
 
 I take my running pretty seriously. I&#8217;ve run 13 marathons in 8 states since 2003. My last big race was the Great Eastern Endurance Run, a 50 KM race, in late September, 2007.&nbsp; I&#8217;m starting to train for triathalons now, we&#8217;ll see how it goes.
 
-[Current Resume (PDF)](http://www.innovationontherun.com/wp-content/uploads/2007/08/dimarcorobert.pdf){.attachmentlink}
+[Current Resume (LinkedIn)](https://www.linkedin.com/in/robertcdimarco)
 
