@@ -2,4 +2,4 @@ url: http://www.innovationontherun.com
 name: Innovation On The Run
 description: >
   Ruminations about innovation and software by Rob Di Marco
-highlighter: pygments
+highlighter: rouge 
