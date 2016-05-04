@@ -1,5 +1,6 @@
 url: http://www.innovationontherun.com
 name: Innovation On The Run
-description: >
-  Ruminations about innovation and software by Rob Di Marco
-highlighter: rouge 
+title: Innovation On The Run
+highlighter: rouge
+twitter_username: iotr
+github_username: robdimarco

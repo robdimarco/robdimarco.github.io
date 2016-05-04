@@ -13,7 +13,7 @@ guid: http://www.innovationontherun.com/presentations/
 
 
 
-### [PLUG](http://phillylinux.org) &#8211; July 14, 2007]
+### [PLUG](http://phillylinux.org) &#8211; July 14, 2007
 
 [http://innovationontherun.com/presentation-files/Introduction%20To%20GIT.ppt](http://innovationontherun.com/presentation-files/Introduction%20To%20GIT.ppt)
 

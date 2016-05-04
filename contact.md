@@ -6,4 +6,15 @@ author: Rob Di Marco
 layout: page
 guid: http://www.innovationontherun.com/contact/
 ---
-<!--contact form-->
+
+<ul class="social-media-list">
+  <li>
+    {% include icon-github.html username=site.github_username %}
+  </li>
+  <li>
+    {% include icon-twitter.html username=site.twitter_username %}
+  </li>
+  <li>
+    <a href="https://www.linkedin.com/in/robertcdimarco">LinkedIn - robertcdimarco</a>
+  </li>
+</ul>
